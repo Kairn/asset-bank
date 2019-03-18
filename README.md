@@ -8,8 +8,10 @@ All assets and resources in this repository are either collected from public for
 ### Pokémon
 * Official Artwork (/pokémon/official-artwork/) - include artwork done by Ken Sugimori for all pokémon from generation 1 to 7.
 * Animated Sprites (/pokémon/animated-sprites/) - include USUM in-game animated sprites for all pokémon from generation 1 to 7 as well as their shiny version.
+* Mini Icons (/pokémon/mini-icons/) - include mini icons for all pokémon from generation 1 to 7.
 
 ## Contributors
 * [Kairn (myself)](https://github.com/Kairn)
 * [kyle72686](https://www.blogger.com/profile/14833457502742971299)
 * [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
+* [PkParaíso](https://www.pkparaiso.com/)
